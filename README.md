@@ -1,6 +1,5 @@
-# QA Engineer Portfolio – Nikita
+# QA Engineer Portfolio 
 
-👋 Hi! I'm a QA Engineer with experience in manual testing and growing skills in test automation. This portfolio contains my practical testing artifacts, bug reports, and automation examples.
 
 ## 🧰 Tools & Technologies
 
@@ -41,13 +40,4 @@ Contains automated testing frameworks and configurations:
 - `selenium-stepik` : Base Selenium tests for Stepik platform.
 - `bug-reports` : Directory for storing bug reports (e.g., ivi_bug-report-001.md).
 
----
 
-## 🔍 About Me
-
-- 🎓 Degree in Applied Informatics
-- 🔍 Focused on precision, clarity, and reproducibility in testing
-- 🚀 Actively improving skills in test automation
-- 📬 Telegram: [@icesowell](https://t.me/icesowell)
-
-> *“Make it simple. Make it work. Make it bulletproof.”*
